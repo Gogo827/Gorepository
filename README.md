@@ -1,3 +1,3 @@
 # Gorepository
-# Editing the file
-It a=s a markdown file in this repostitory
+## Editing the file
+# It is a markdown file in this repostitory
